@@ -1,4 +1,4 @@
-# Subversion_Migration_Part_1
+mcino-Introduction-to-Git-and-GitHub
 This is a migration of Subversion to GitHub
 
 Use the following best practices to structure the content. When adding content to an existing article, follow the existing structure whenever possible.
